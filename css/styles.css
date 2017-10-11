@@ -99,6 +99,7 @@ span.hint {
 .nav-menu {
   visibility: visible;
   opacity: 1;
+  /*display: block;*/
   background: beige;
   padding: 15px;
   text-align: center;
@@ -107,6 +108,7 @@ span.hint {
 
 .nav-menu-hidden {
   opacity: 0;
+  /*display: none;*/
 }
 
 .nav-menu a {
